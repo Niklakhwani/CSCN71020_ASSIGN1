@@ -20,6 +20,7 @@ void main() {
 	{
 	case 1:
 		add();
+		return 1;
 
 	case 2:
 		subtract();
